@@ -36,4 +36,4 @@ My current working tech stack is TypeScript + React + Redux (with Saga), C# .Net
 - 🔭 I’m currently working on a secret project which will help people learn programming
 - 🌱 I’m currently learning Functional programmin with F# and fp-ts
 - 📫 How to reach me: viktor.ohad@protonmail.com
-- ⚡ Fun fact: Love working out, cycling, want to be a biker soon...
+- ⚡ Fun fact: Love working out, cycling, soon to be biker
